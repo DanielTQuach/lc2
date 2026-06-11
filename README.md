@@ -1,0 +1,1 @@
+![System Design Diagram](./assets/system-design.svg)
